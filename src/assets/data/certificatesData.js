@@ -1,6 +1,17 @@
 const certificatesData = [
   {
     id: 1,
+    name: "Certified Associate in Project Management (CAPM)",
+    date: "2025-02-04",
+    issuer: "Project Management Institute (PMI)",
+    description:
+      "Earned the Certified Associate in Project Management (CAPM) certification, demonstrating knowledge of project management principles and best practices as outlined in the PMBOK Guide.",
+    country: "Online",
+    fileName: "CAPM.pdf",
+    fileType: "pdf",
+  },
+  {
+    id: 2,
     name: "ENCE607.1x: Applied Scrum for Agile Project Management",
     date: "2024-07-15",
     issuer: "University System of Maryland",
@@ -11,7 +22,7 @@ const certificatesData = [
     fileType: "pdf",
   },
   {
-    id: 2,
+    id: 3,
     name: "Free Introduction: Basics of Disciplined Agile™ Online Course",
     date: "2022-01-15",
     description:
@@ -22,7 +33,7 @@ const certificatesData = [
     fileType: "pdf",
   },
   {
-    id: 3,
+    id: 4,
     name: "Introduction to Blue Prism Intelligent Automation",
     date: "2023-11-16",
     description:
@@ -33,7 +44,7 @@ const certificatesData = [
     fileType: "pdf",
   },
   {
-    id: 4,
+    id: 5,
     name: "Getting Started with DevOps on AWS",
     date: "2023-03-22",
     description:
@@ -44,7 +55,7 @@ const certificatesData = [
     fileType: "pdf",
   },
   {
-    id: 5,
+    id: 6,
     name: "Introduction to AWS CodeCommit",
     date: "2023-02-16",
     description:
@@ -54,7 +65,7 @@ const certificatesData = [
     fileType: "pdf",
   },
   {
-    id: 6,
+    id: 7,
     name: "Introduction to Amazon Elastic Compute Cloud (EC2)",
     date: "2023-02-14",
     description:
@@ -65,7 +76,7 @@ const certificatesData = [
     fileType: "pdf",
   },
   {
-    id: 7,
+    id: 8,
     name: "Elements of AI",
     date: "2018-09-11",
     description:
@@ -76,18 +87,18 @@ const certificatesData = [
     fileType: "image",
   },
   {
-    id: 8,
+    id: 9,
     name: "Certificate of Appreciation",
     date: "2012-11-12",
     description:
-      "In testimony of his outstanding performance and contribution to excellent organization and realization of the  7th Internet Governance Forum (IGF) on Internet Governance for Sustainable Human, Economics and Social Development held on 6-9 November 2012 in Baku, Azerbaijan.",
+      "In testimony of his outstanding performance and contribution to excellent organization and realization of the 7th Internet Governance Forum (IGF) on Internet Governance for Sustainable Human, Economics and Social Development held on 6-9 November 2012 in Baku, Azerbaijan.",
     country: "Azerbaijan",
     issuer: "United Nations",
     fileName: "certificate_un.pdf",
     fileType: "pdf",
   },
   {
-    id: 9,
+    id: 10,
     name: "Effective ICT management – Masterplan to Solutions",
     date: "2011-06-24",
     description:
@@ -98,7 +109,7 @@ const certificatesData = [
     fileType: "pdf",
   },
   {
-    id: 10,
+    id: 11,
     name: "Policy on Information and Communication Technology",
     date: "2011-06-24",
     description:
