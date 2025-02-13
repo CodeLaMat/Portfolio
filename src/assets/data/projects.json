@@ -197,7 +197,7 @@
       "category": "project-management",
       "description": "As the project manager, I led the IT support for the Forum organized by the United Nations in Baku, Azerbaijan, from November 5-9, 2012. The forum was expected to host over 2,000 physical attendees and tens of thousands of online participants. Our main task was to provide technical equipment and computer systems to support online broadcasting, sound management, and interactive participation for sessions held simultaneously in over 12 meeting rooms in more than 10 languages, based on UN's technical requirements. We assembled a team of approximately 40 specialists and 30 volunteers to ensure the event's success. The technical support was successfully implemented, and I was awarded a certificate by the United Nations for our efforts.",
       "role": "Project manager",
-      "date": "2012",
+      "date": "10.2012-11.2012",
       "budget": "200.000 EUR",
       "external": "certificate_un.pdf",
       "showInProjects": true
@@ -206,11 +206,11 @@
       "id": 16,
       "name": "People's Computer Project",
       "category": "project-management",
-      "description": "The project, launched in July 2009, aimed at providing school teachers with modern computers, it later expanded to include students and university educators. The project's objectives were to facilitate access to affordable, licensed software-equipped computers, promote public education in the global information space, protect intellectual property, and support low-income social groups. Buyers could acquire computers without an initial payment, through interest-free credit, and at 25-30% below market rates. Over 27,000 individuals benefited from these terms. As the project coordinator, I oversaw its successful implementation and delivery.",
+      "description": "The project, Xalq Kompüteri (People’s Computer) initiative, launched by the Ministry of Communications and High Technologies of Azerbaijan. I served as the Project Coordinator, managing collaboration with key stakeholders such as HP, Microsoft, and Bestcomp Group. The project's goal was to provide affordable computers to teachers and students. I led critical phases of implementation, enabling over 27,000 individuals to obtain computers at discounted prices and with interest-free financing. I was also responsible for stakeholder relations and logistics, ensuring that the project remained on budget and on schedule.",
       "role": "Project coordinator",
-      "date": "2010-2014",
-      "budget": "15 mln EUR",
-      "external": "",
+      "date": "05.2010-08.2014",
+      "budget": "15.000,000 EUR",
+      "external": "https://e-qanun.az/framework/27456",
       "showInProjects": true
     },
     {
@@ -219,9 +219,20 @@
       "category": "project-management",
       "description": "In 2013, as the Product Owner and Project Manager appointed by the Ministry of Communication and IT, I spearheaded the development of a comprehensive registry for Information Systems containing personal data. The project was mandated to comply fully with all legal acts regarding personal data protection. My responsibilities included defining the product vision, managing the product backlog, and collaborating closely with cross-functional teams to ensure the system met all regulatory and compliance requirements. The system was successfully developed by the selected vendor and was delivered to the Ministry on time, fulfilling all contractual obligations and quality standards.",
       "role": "Product Owner/Project Manager",
-      "date": "2013",
+      "date": "11.2012-03.2013",
       "budget": "350,000 EUR",
       "external": "https://registry.pdp.az/",
+      "showInProjects": true
+    },
+    {
+      "id": 18,
+      "name": "Procurement and deployment of MS Windows Enterprise licenses",
+      "category": "project-management",
+      "description": "I managed the procurement and deployment of MS Windows 7 Enterprise licenses for over 30 government agencies. I was responsible for the entire project lifecycle, including the procurement process, vendor selection, and contract negotiations. I led a team that structured the project into phases to ensure smooth coordination between stakeholders and suppliers. The project was successfully completed on time and within budget, with effective risk management throughout the process.",
+      "role": "Associate Project Manager",
+      "date": "08.2011-05.2012",
+      "budget": "9.200,000 EUR",
+      "external": "https://apa.az/infrastruktur/xeber_dovlet_strukturlari_ucun_lisenziyali_pro_-520591",
       "showInProjects": true
     }
   ]
