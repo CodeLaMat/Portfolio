@@ -14,9 +14,10 @@ const Heading = () => {
 
   useEffect(() => {
     const phrases = [
-      "ICT Project Manager ",
-      "Full Stack Developer ",
-      "ICT Project Manager & Full Stack Developer",
+      "IT Change & Operations Specialist ",
+      "IT Project Manager ",
+      "Business-Development Leader ",
+      "IT Change & Operations Specialist | IT Project Manager | Business-Development Leader & Full Stack Developer",
     ];
     if (pause) return;
 
@@ -64,15 +65,33 @@ const Heading = () => {
           <span className={classes.cursor}>{blink ? "|" : " "}</span>
         </h2>
         <p className={classes.description}>
-          I am an ICT professional with a dual specialization in{" "}
-          <span>software development</span> and{" "}
-          <span>IT project management</span>. Over the years, I have honed my
-          skills by leading cross-functional teams and developing user-centric
-          applications that drive business success. My expertise spans a wide
-          array of modern technologies, including <span>React</span>,{" "}
-          <span>Node.js</span>, <span>TypeScript</span>, and{" "}
-          <span>JavaScript</span>, enabling me to deliver cutting-edge solutions
-          that solve real-world problems.
+          I am an{" "}
+          <span>
+            IT Change & Operations Specialist | IT Project Manager |
+            Business-Development Leader & Full Stack Developer{" "}
+          </span>
+          with over 10 years of experience driving market analyses, project
+          development, and business growth initiatives. I have a proven track
+          record in{" "}
+          <span>
+            leading complex projects from concept to financial close, including
+            market entry strategies, financial modeling, and investment
+            partnership management
+          </span>
+          . Skilled in coordinating cross-functional teams, engaging senior
+          stakeholders, and navigating international, multicultural
+          environments. Adept at using advanced analytical tools and digital
+          platforms to support data-driven decision-making and optimize project
+          outcomes. Passionate about enabling sustainable growth through
+          strategic market development and operational excellence.
+          <p className={classes.description}>
+            Over the years, I have honed my skills by leading cross-functional
+            teams and developing user-centric applications that drive business
+            success. My expertise spans a wide array of modern technologies,
+            including <span>React</span>, <span>Node.js</span>,{" "}
+            <span>TypeScript</span>, and <span>JavaScript</span>, enabling me to
+            deliver cutting-edge solutions that solve real-world problems.
+          </p>
         </p>
         <p className={classes.description}>
           I am currently pursuing an <span>MBA in Business Technologies </span>

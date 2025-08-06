@@ -8,32 +8,40 @@ const About = () => {
     <div className={classes.aboutMe}>
       <div>
         <h2>About Me</h2>
+
         <p>
-          I am an ICT professional with over seven years of experience in{" "}
-          <span>ICT project management </span>and about three years of
-          experience in <span>software development</span>. My career began in
-          Azerbaijan, where I worked on national digital transformation
-          projects, managing large-scale ICT initiatives in the public sector.
-          Later, I moved to Finland and focused on technical project management
-          and software development. I also established my own company in
-          Germany, where I served as Managing Director for more than three
-          years. I'm a citizen of Finland and Azerbaijan.
+          I'm a Helsinki-based digital operations and project specialist with a
+          background spanning private companies, public-sector projects, and
+          fast-moving startups. My work focuses on building efficient systems,
+          coordinating cross-functional teams, and turning complex requirements
+          into actionable solutions. Over the past several years, I’ve worked
+          across roles in{" "}
+          <span>
+            digital transformation, ICT policy advising, compliance management,
+            project management, and full-stack software development
+          </span>
+          . I've led initiatives ranging from workflow automation in the
+          construction sector to agile platform development in education and
+          public services. Whether working as a product owner, developer, or
+          project coordinator, I focus on clarity, structured delivery, and
+          outcomes that scale. I hold an MBA in Business Technologies (ongoing)
+          and a vocational qualification in full-stack development. I'm{" "}
+          <span>
+            certified in project management (CAPM®), Scrum, and Microsoft 365
+            project tools
+          </span>
+          . Technically, I’m fluent in tools like{" "}
+          <span>
+            Jira, SharePoint, Dynamics 365, and Git-based development
+            environments
+          </span>
+          . With professional fluency in English and working proficiency in
+          Finnish, I’ve collaborated with international teams across Europe and
+          the Caucasus. I enjoy roles that combine communication with
+          execution—where bridging gaps between people, tools, and processes
+          leads to real impact. I'm a citizen of Finland and Azerbaijan.
         </p>
-        <p>
-          At <span>Virittämö</span>, the employment service of the City of
-          Helsinki, I worked as a full-stack developer. In this role, I
-          developed and maintained applications, collaborated with teams to
-          improve performance, and implemented authentication systems and CI/CD
-          practices to optimize deployment efficiency. I was also responsible
-          for preparing well-structured documentation for various projects.
-          During my time at Virittämö, I noticed that project documentation was
-          scattered across various resources, making it difficult to update and
-          manage. Recognizing this challenge, I took the initiative to develop a
-          software tool dedicated to each ongoing project. This centralized all
-          resources and significantly improved project management. The tool
-          quickly became essential to the team's workflow, showcasing my ability
-          to identify problems and implement practical solutions.
-        </p>
+
         <p>
           My technical skill set includes a range of languages and frameworks,
           such as{" "}
